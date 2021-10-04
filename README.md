@@ -1,2 +1,2 @@
-# app-name-temp
+# Template for app demonstrations
 Template for all apps we will be building
