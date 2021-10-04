@@ -1,0 +1,18 @@
+:root{
+    --primary-color: #001e43;
+    --secondary-color: #ff993b;
+    --dark-color: #292929;
+    --white-color: #dfe3e4;
+}
+
+main>.container{
+    padding: 60px 15px 0;
+}
+
+#content{
+    min-height: 90vh;
+}
+
+nav {
+    background-color: var(--dark-color);
+}
